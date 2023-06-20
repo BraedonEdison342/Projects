@@ -4,7 +4,7 @@ import csv
 import sqlite3
 
 # General setup from riot game api documents
-api_key = "RGAPI-4bda787e-16ab-444d-bbd1-69ae876dd797"
+api_key = "PUT UR KEY HERE"
 headers = {
     "X-Riot-Token": api_key
 }
